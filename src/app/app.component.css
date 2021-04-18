@@ -1,0 +1,13 @@
+.box {
+    margin-left: 350px;
+    margin-right:350px;
+    display: flex;
+    padding: 10px;
+    background-color:tan;
+}
+.head {
+    background-color:lightgray;
+    margin-left: 350px;
+    margin-right:350px;
+    padding: 10px;
+}
